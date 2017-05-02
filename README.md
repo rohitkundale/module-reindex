@@ -4,7 +4,7 @@
 
 Log in to the Magento server, go to your Magento install directory and run following commands:
 ```
-composer require rpmkhatri/module-reindex
+composer require rohitkundale/module-reindex
 
 php -f bin/magento module:enable RohitKundale_Reindex
 php -f bin/magento setup:upgrade

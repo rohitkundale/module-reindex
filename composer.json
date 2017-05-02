@@ -1,5 +1,5 @@
 {
-  "name": "rpmkhatri/module-reindex",
+  "name": "rohitkundale/module-reindex",
   "description": "Magento 2 Reindex Module",
   "require": {
     "magento/module-backend": "100.*.*",
